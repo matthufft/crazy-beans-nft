@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Three-toed"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "lavender"
+      }
+    ],
+    "description": "The world's most adorable sloth.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVNo3R9efUMXKfRo739GmMpCoMrqznFX2XBqBKBarm3Aj",
+    "name": "Ramses"
+  }
+  
